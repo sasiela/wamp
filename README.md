@@ -1,4 +1,4 @@
-# WAMP — Winamp Classic
+# Weenamp
 
 Odtwarzacz oparty na Webamp 2.3.1, z oryginalnym wskazanym skinem `base-2.91.wsz`. Bez zewnętrznych fontów ani CDN podczas uruchamiania.
 
